@@ -4,6 +4,7 @@ install: false
 
 addons:
   chrome: stable
+  mariadb: '10.3'
   sonarcloud:
     organization: "player-analytics-plan"
     token:
